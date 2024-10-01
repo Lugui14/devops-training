@@ -8,3 +8,4 @@
 
 - "trilha-linux": Linux Fundamentals exercices
   - "first-challenge": iac scripts challenge
+  - "second-challenge": iac script to web server (challenge)
