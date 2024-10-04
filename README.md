@@ -1,9 +1,9 @@
 # DEVOPS
 
-** Repository to practicing infra ** <br />
-** Courses: ** <br />
-** <mark>Linux Fundamentals</mark> **
-** <mark>Docker Fundamentals</mark> **
+* Repository to practicing infra <br />
+* Courses:  <br />
+** <mark>Linux Fundamentals</mark> <br />
+** <mark>Docker Fundamentals</mark>
 
 📁 Directories: <br />
 
