@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+#list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background-color: bisque;
+
+  width: 100vw;
+  height: 100vh;
+}
+
+h1 {
+  margin: 2rem;
+}
+
+#todos {
+  text-align: center;
+  width: 100%;
+
+  margin-bottom: 2rem;
+  list-style: none;
+}
+
+#description {
+  width: 80%;
+}
+
+.m-2 {
+  margin: 2rem;
+}
