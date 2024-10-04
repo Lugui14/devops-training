@@ -13,3 +13,4 @@
   - "first-challenge": apache docker-compose challenge
 - "trilha-linux": Linux Fundamentals exercices
   - "first-challenge": iac scripts challenge
+  - "second-challenge": iac script to web server (challenge)
